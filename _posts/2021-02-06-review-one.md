@@ -27,6 +27,7 @@ The team included Susan C. Lawrence, Elizabeth Lorang, Kenneth M. Price, and Ken
 
 This project has six main tabs that illustrate how the data is split up. These tabs include Introductions, Data, Maps, Texts, Visual Works, and Interpretations. In the introductions, it includes the beginning information you will need to make a clear understanding of the project ahead. Data is a way for the viewer to search in a database for people, places, events, organizations and documents. Maps is a map of the area at that time including places to search like churches, forts, government buildings, and police stations. Texts are anything to do with newspapers published, medical cases, and letters to look through and see the original work. Visual Works are pictures of places, events, and people from this time period with a little background information of the picture. Lastly, interpretations are from the researchers of the project and analyzing the process of building the project Civil War Washington. You can see the setup of the website and how the tabs are set up in the picture below. 
 
+![Website Setup](https://keeseesydne.github.io/keeseesydne/images/tabsetup.png)
 
 ## **Project Review**
 #### **Sydney Keesee**

@@ -3,8 +3,14 @@ Civil War Washington
 
 #### **Project Director(s)**
 _Susan C. Lawrence_
+
+
 _Elizabeth Lorang_
+
+
 _Kenneth M. Price_
+
+
 _Kenneth J. Wrinkle_
 
 #### **Project URL**

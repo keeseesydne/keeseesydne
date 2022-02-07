@@ -32,8 +32,8 @@ This project has six main tabs that illustrate how the data is split up. These t
 ## **Project Review**
 #### **Sydney Keesee**
 
-The Civil War Washington is a good example of a digital humanities project that highlights something that can be brought more to light. With original works, texts, and visuals it gives the reader a clear understanding into what life was like in these years of the Civil War. The data tab is a good resource to use if you come to the project knowing what you are looking for and need a quick and easy way to get any information on it. 
-
+The Civil War Washington is a good example of a digital humanities project that highlights something that can be brought more to light. With original works, texts, and visuals it gives the reader a clear understanding into what life was like in these years of the Civil War. The data tab (pictured below) is a good resource to use if you come to the project knowing what you are looking for and need a quick and easy way to get any information on it. 
+![Data Tab](https://keeseesydne.github.io/keeseesydne/images/datatab.png)
 
 The overall set up of the project is very simple and easy to understand. With having the six main tabs, the reader can go into the project and navigate through the website without any issues. All the links and information are set up correctly and the links work. I believe that for scholars, students, or professors this project would be a very reliable source to use to gain more dependable information and for the public, this is a very interesting way to gather more information on a topic that is so well known.
 
